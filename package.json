@@ -1,0 +1,16 @@
+{
+  "name": "immutable-js-typing-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --version; tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "4.0.0-rc.2",
+    "typescript": "next"
+  }
+}
